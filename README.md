@@ -14,7 +14,7 @@
   <a href="www.linkedin.com/in/vitor-rusqui-55189b2bb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="vitor_r" target="_blank">
+  <a href="https://discordapp.com/users/475398542111014913" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="vitor_rusqui" target="_blank">
